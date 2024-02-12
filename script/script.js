@@ -7,14 +7,11 @@ function find() {
 
 }
 
-// or
+//or
 // function find() {
-//     let a = document.getElementById("a").value;
-//     let b = document.getElementById("b").value;
-//     let c = document.getElementById("c").value;
-//     a = Number(a);
-//     b = Number(b);
-//     c = Number(c);
+//     let a = Number(document.getElementById("a").value);
+//     let b = Number(document.getElementById("b").value);
+//     let c = Number(document.getElementById("c").value);
 
 //     if (a > b && a > c) {
 //         document.getElementById("large").innerHTML = "The largest number is : " + a;
